@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkwebpage"]=self["webpackChunkwebpage"]||[]).push([[835],{5835:function(n,t,e){e.r(t),e.d(t,{default:function(){return c}});var s=e(980),a=function(){var n=this,t=n._self._c;return t(s.A,{staticClass:"grow hidden-sm-and-down",attrs:{contain:"","max-height":"200",width:"100%",position:"bottom left",src:e(9241)}})},u=[],i={name:"BaseBubble2"},l=i,o=e(1656),r=(0,o.A)(l,a,u,!1,null,null,null),c=r.exports},9241:function(n,t,e){n.exports=e.p+"img/bubbles2.6364031a.png"}}]);
+//# sourceMappingURL=835.c25508df.js.map
